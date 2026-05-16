@@ -1,0 +1,9 @@
+{
+  "name": "shownout",
+  "version": "1.0.0",
+  "description": "ShowNOut Pro Wash — pressure washing in Wilmington, NC",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0"
+  }
+}

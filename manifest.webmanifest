@@ -1,0 +1,36 @@
+{
+  "name": "ShowNOut Pro Wash",
+  "short_name": "ShowNOut",
+  "description": "Professional pressure washing in Wilmington, NC. Instant estimates. Free quotes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF6A1A",
+  "orientation": "portrait-primary",
+  "categories": ["business", "lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%230A1B3D'/%3E%3Ctext x='96' y='130' font-family='Impact,sans-serif' font-size='120' font-weight='900' text-anchor='middle' fill='%23FF6A1A'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%230A1B3D'/%3E%3Ctext x='256' y='346' font-family='Impact,sans-serif' font-size='320' font-weight='900' text-anchor='middle' fill='%23FF6A1A'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Call ShowNOut",
+      "url": "tel:+19103672767"
+    },
+    {
+      "name": "Get a Quote",
+      "url": "/#quote"
+    }
+  ]
+}
